@@ -1,0 +1,4 @@
+C:\Users\cyril\source\repos\CompetitionRobots\CompetitionRobots\bin\Debug\M1IL.CompetitionRobots.dll
+C:\Users\cyril\source\repos\CompetitionRobots\CompetitionRobots\bin\Debug\M1IL.CompetitionRobots.pdb
+C:\Users\cyril\source\repos\CompetitionRobots\CompetitionRobots\obj\Debug\M1IL.CompetitionRobots.dll
+C:\Users\cyril\source\repos\CompetitionRobots\CompetitionRobots\obj\Debug\M1IL.CompetitionRobots.pdb
